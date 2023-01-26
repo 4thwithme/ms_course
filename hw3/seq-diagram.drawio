@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T22:21:58.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="NZn_vAIvOaeGozU9gryX" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-26T22:24:31.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="R9m3LhEVRWxdD2KIlZ0y" type="github">
   <diagram id="x98PPL6-thTAJ7vUtBq6" name="Page-1">
-    <mxGraphModel dx="4830" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4830" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhibBjdN6tlnG94axz-A-12" value=":Stripe" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="40" width="1060" height="3010" as="geometry" />
+          <mxGeometry x="1040" y="40" width="100" height="3010" as="geometry" />
         </mxCell>
         <mxCell id="xhibBjdN6tlnG94axz-A-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="xhibBjdN6tlnG94axz-A-12">
           <mxGeometry x="45" y="220" width="10" height="30" as="geometry" />
@@ -615,7 +615,7 @@
           <mxGeometry x="-40" y="1570" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xhibBjdN6tlnG94axz-A-234" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="1525" width="2140" height="835" as="geometry" />
+          <mxGeometry x="-110" y="1525" width="2140" height="1140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
